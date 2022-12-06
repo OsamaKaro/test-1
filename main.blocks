@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="y[(8w+O^s^DAye]HV=UV" x="0" y="0"></block><block type="device_forever" id="epj*YvCl^a`~nc)Id:v}" x="205" y="0"></block><block type="device_button_event" id="L{Gg2OSka36__DV~f)5)" x="78" y="166"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="M7lb5ch}MmqdBM`vL1b,"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="y[(8w+O^s^DAye]HV=UV" x="0" y="0"></block><block type="device_forever" id="epj*YvCl^a`~nc)Id:v}" x="205" y="0"></block><block type="device_button_event" id="L{Gg2OSka36__DV~f)5)" x="32" y="182"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="M7lb5ch}MmqdBM`vL1b,"><field name="LEDS">`
         # # . . . 
         # . # . . 
         . # . . # 
@@ -6,8 +6,8 @@
         . . . . .
         `</field></block></statement></block><block type="device_button_event" id="Do~m~fO?!YReb3RE3#Vv" x="342" y="177"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="]PL.$/eCg1sGrbURFx79"><field name="LEDS">`
         # # # . . 
-        . . . . . 
+        . . # . . 
         . . . . . 
         . . . . . 
         . . . . .
-        `</field><next><block type="playMelody" id="?[lT?iz-6cw6ZqbbG6~F"><value name="melody"><shadow type="melody_editor" id="F!_`GbAGna[%byeR$bqq"><field name="melody">"- - - A G G - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="i(|cP3CworAgua%8]$w="><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block></xml>
+        `</field><next><block type="playMelody" id="?[lT?iz-6cw6ZqbbG6~F"><value name="melody"><shadow type="melody_editor" id="F!_`GbAGna[%byeR$bqq"><field name="melody">"E B C5 A B G A F "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="i(|cP3CworAgua%8]$w="><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block></xml>

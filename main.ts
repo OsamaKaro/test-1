@@ -10,12 +10,12 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     basic.showLeds(`
         # # # . .
-        . . . . .
+        . . # . .
         . . . . .
         . . . . .
         . . . . .
         `)
-    music.playMelody("- - - A G G - - ", 120)
+    music.playMelody("E B C5 A B G A F ", 120)
 })
 basic.forever(function () {
 	
