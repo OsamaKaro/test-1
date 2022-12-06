@@ -6,7 +6,7 @@
         . . . . .
         `</field></block></statement></block><block type="device_button_event" id="Do~m~fO?!YReb3RE3#Vv" x="342" y="177"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="]PL.$/eCg1sGrbURFx79"><field name="LEDS">`
         # # # . . 
-        . . # . . 
+        . # # . . 
         . . . . . 
         . . . . . 
         . . . . .
